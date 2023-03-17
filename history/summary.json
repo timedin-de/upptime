@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vps.timedin.net.ico",
     "slug": "vps-page",
     "status": "up",
-    "uptime": "48.92%",
-    "uptimeDay": "48.92%",
-    "uptimeWeek": "48.92%",
-    "uptimeMonth": "48.92%",
-    "uptimeYear": "48.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 479,
     "timeWeek": 479,
     "timeMonth": 479,
     "timeYear": 479,
-    "dailyMinutesDown": {
-      "2023-03-17": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "No-Cookies.net",
