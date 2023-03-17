@@ -41,38 +41,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.no-cookies.net.ico",
     "slug": "no-cookies-net",
     "status": "up",
-    "uptime": "88.32%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "88.32%",
-    "uptimeMonth": "88.32%",
-    "uptimeYear": "88.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 627,
     "timeDay": 627,
     "timeWeek": 627,
     "timeMonth": 627,
     "timeYear": 627,
-    "dailyMinutesDown": {
-      "2023-03-17": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TimedIn (NoCookies)",
     "url": "https://timedin-net.no-cookies.net",
     "icon": "https://icons.duckduckgo.com/ip3/timedin-net.no-cookies.net.ico",
     "slug": "timed-in-no-cookies",
-    "status": "down",
-    "uptime": "88.28%",
-    "uptimeDay": "88.28%",
-    "uptimeWeek": "88.28%",
-    "uptimeMonth": "88.28%",
-    "uptimeYear": "88.28%",
-    "time": 645,
-    "timeDay": 645,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "status": "up",
+    "uptime": "71.89%",
+    "uptimeDay": "71.89%",
+    "uptimeWeek": "71.89%",
+    "uptimeMonth": "71.89%",
+    "uptimeYear": "71.89%",
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-03-17": 13
+      "2023-03-17": 39
     }
   },
   {
