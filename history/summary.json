@@ -23,13 +23,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/vps.timedin.net.ico",
     "slug": "vps-proxy-page",
     "status": "up",
-    "uptime": "94.84%",
+    "uptime": "94.86%",
     "uptimeDay": "98.18%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "94.84%",
-    "uptimeYear": "94.84%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "94.86%",
+    "uptimeYear": "94.86%",
     "time": 542,
-    "timeDay": 524,
+    "timeDay": 538,
     "timeWeek": 542,
     "timeMonth": 542,
     "timeYear": 542,
@@ -45,7 +45,7 @@
     "url": "https://www.no-cookies.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.no-cookies.net.ico",
     "slug": "no-cookies-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 581,
     "timeMonth": 581,
     "timeYear": 581,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   },
   {
     "name": "TimedIn (NoCookies)",
