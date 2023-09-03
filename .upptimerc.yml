@@ -18,15 +18,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.timedin.net
   #baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is the TimedIn-Uptime Page using **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  customHeadHtml: "<meta name=\"robots\" content=\"noarchive noimageindex\">"
+  logoUrl: https://static.timedin.net/img/timedin-logo.svg
+  name: Status Page | TimedIn
+  introTitle: "**TimedIn**: simple, free and open services."
+  introMessage: Our status page shows the response- and uptime of all our services and systems.
   navbar:
     - title: TimedIn.net
       href: https://www.timedin.net/
     - title: NoCookies.net
       href: https://www.no-cookies.net
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
