@@ -3,16 +3,26 @@ owner: timedin-de # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: TimedIn.net
+  - name: timedin.net
     url: https://www.timedin.net
-  - name: VPS-Proxy PAGE
-    url: https://vps.timedin.net
-  - name: No-Cookies.net
-    url: https://www.no-cookies.net
-  - name: TimedIn (NoCookies)
-    url: https://timedin-net.no-cookies.net
-  - name: Link-Shortening
+    icon: https://static.timedin.net/icons/android-icon-192x192.png
+  - name: api.timedin.net
+    url: https://www.timedin.net
+    icon: https://static.timedin.net/icons/android-icon-192x192.png
+  - name: 2t0.de
+    icon: https://static.timedin.net/icons/android-icon-192x192.png
     url: https://2t0.de/
+  - name: mail.timedin.net (SMTP-TLS)
+    icon: https://static.timedin.net/icons/android-icon-192x192.png
+    url: mail.timedin.net
+    port: 587
+    check: "tcp-ping"
+  - name: mail.timedin.net (MX)
+    icon: https://static.timedin.net/icons/android-icon-192x192.png
+    url: mail.timedin.net
+    port: 25
+    check: "tcp-ping"
+ 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
