@@ -19,7 +19,11 @@ status-website:
   cname: status.timedin.net
   #baseUrl: /upptime
   customHeadHtml: "<meta name=\"robots\" content=\"noarchive noimageindex\">"
+  
   logoUrl: https://static.timedin.net/img/timedin-logo.svg
+  favicon: https://static.timedin.net/icons/android-icon-192x192.png
+  faviconSvg: https://static.timedin.net/img/timedin-logo.svg
+  
   name: Status Page | TimedIn
   introTitle: "**TimedIn**: simple, free and open services."
   introMessage: Our status page shows the response- and uptime of all our services and systems.
@@ -28,4 +32,5 @@ status-website:
       href: https://www.timedin.net/
     - title: NoCookies.net
       href: https://www.no-cookies.net
+i18n:
   footer: ""
