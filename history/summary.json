@@ -40,19 +40,19 @@
     "url": "https://2t0.de/",
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "2t0-de",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 775,
-    "timeDay": 690,
-    "timeWeek": 793,
-    "timeMonth": 775,
-    "timeYear": 775,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 764,
+    "timeDay": 670,
+    "timeWeek": 775,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {
-      "2023-09-13": 5
+      "2023-09-13": 56
     }
   },
   {
