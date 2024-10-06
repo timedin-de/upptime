@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "96.74%",
-    "uptimeYear": "99.43%",
-    "time": 839,
-    "timeDay": 948,
-    "timeWeek": 691,
-    "timeMonth": 1187,
-    "timeYear": 863,
+    "uptimeYear": "99.47%",
+    "time": 838,
+    "timeDay": 644,
+    "timeWeek": 692,
+    "timeMonth": 1186,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2024-09-29": 26,
       "2024-09-27": 677,
@@ -55,11 +55,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "96.75%",
-    "uptimeYear": "99.46%",
-    "time": 312,
-    "timeDay": 195,
-    "timeWeek": 146,
-    "timeMonth": 613,
+    "uptimeYear": "99.50%",
+    "time": 311,
+    "timeDay": 133,
+    "timeWeek": 137,
+    "timeMonth": 614,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2024-09-29": 25,
@@ -92,16 +92,16 @@
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "2t0-de",
     "status": "up",
-    "uptime": "94.30%",
+    "uptime": "94.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "96.75%",
-    "uptimeYear": "93.81%",
-    "time": 707,
-    "timeDay": 391,
-    "timeWeek": 328,
+    "uptimeYear": "93.84%",
+    "time": 706,
+    "timeDay": 300,
+    "timeWeek": 319,
     "timeMonth": 786,
-    "timeYear": 705,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2024-09-29": 25,
       "2024-09-27": 677,
@@ -156,15 +156,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.49%",
     "time": 119,
-    "timeDay": 161,
-    "timeWeek": 105,
+    "timeDay": 111,
+    "timeWeek": 107,
     "timeMonth": 119,
     "timeYear": 118,
-    "dailyMinutesDown": {
-      "2023-10-07": 1334
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mail.timedin.net (MX)",
@@ -176,14 +174,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.50%",
     "time": 117,
-    "timeDay": 160,
-    "timeWeek": 105,
+    "timeDay": 111,
+    "timeWeek": 108,
     "timeMonth": 119,
     "timeYear": 116,
-    "dailyMinutesDown": {
-      "2023-10-07": 1309
-    }
+    "dailyMinutesDown": {}
   }
 ]
