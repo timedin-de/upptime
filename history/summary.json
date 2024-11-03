@@ -5,15 +5,15 @@
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "timedin-net",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "96.19%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "99.29%",
-    "time": 1063,
-    "timeDay": 3931,
-    "timeWeek": 1995,
-    "timeMonth": 2455,
+    "time": 1062,
+    "timeDay": 3929,
+    "timeWeek": 1998,
+    "timeMonth": 2452,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2024-11-02": 55,
@@ -52,8 +52,7 @@
       "2023-12-16": 20,
       "2023-12-04": 16,
       "2023-11-11": 18,
-      "2023-11-05": 333,
-      "2023-11-04": 25
+      "2023-11-05": 333
     }
   },
   {
@@ -67,8 +66,8 @@
     "uptimeWeek": "99.02%",
     "uptimeMonth": "97.98%",
     "uptimeYear": "99.33%",
-    "time": 462,
-    "timeDay": 3448,
+    "time": 461,
+    "timeDay": 3452,
     "timeWeek": 1468,
     "timeMonth": 1429,
     "timeYear": 502,
@@ -104,8 +103,7 @@
       "2024-02-01": 27,
       "2024-01-17": 46,
       "2023-12-16": 18,
-      "2023-11-05": 321,
-      "2023-11-04": 25
+      "2023-11-05": 321
     }
   },
   {
@@ -114,16 +112,16 @@
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "2t0-de",
     "status": "up",
-    "uptime": "94.53%",
+    "uptime": "94.54%",
     "uptimeDay": "96.26%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "93.68%",
-    "time": 814,
-    "timeDay": 3602,
-    "timeWeek": 1630,
+    "time": 813,
+    "timeDay": 3606,
+    "timeWeek": 1633,
     "timeMonth": 1486,
-    "timeYear": 823,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2024-11-02": 54,
       "2024-10-31": 22,
@@ -175,8 +173,7 @@
       "2024-01-17": 45,
       "2023-12-19": 16,
       "2023-12-16": 17,
-      "2023-11-05": 320,
-      "2023-11-04": 25
+      "2023-11-05": 320
     }
   },
   {
@@ -191,10 +188,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 93,
-    "timeWeek": 124,
+    "timeDay": 111,
+    "timeWeek": 126,
     "timeMonth": 113,
-    "timeYear": 116,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -208,9 +205,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 93,
-    "timeWeek": 123,
+    "time": 116,
+    "timeDay": 111,
+    "timeWeek": 126,
     "timeMonth": 113,
     "timeYear": 114,
     "dailyMinutesDown": {}
