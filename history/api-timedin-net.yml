@@ -1,7 +1,7 @@
 url: https://www.timedin.net
-status: up
-code: 200
-responseTime: 179
-lastUpdated: 2024-11-07T23:20:07.882Z
+status: down
+code: 500
+responseTime: 10098
+lastUpdated: 2024-11-08T18:41:27.246Z
 startTime: 2023-09-03T21:05:38.380Z
 generator: Upptime <https://github.com/upptime/upptime>
