@@ -4,18 +4,19 @@
     "url": "https://www.timedin.net",
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "timedin-net",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "98.85%",
-    "time": 1504,
-    "timeDay": 770,
-    "timeWeek": 3713,
-    "timeMonth": 1976,
-    "timeYear": 1544,
+    "time": 1522,
+    "timeDay": 7205,
+    "timeWeek": 4297,
+    "timeMonth": 2261,
+    "timeYear": 1564,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-08-19": 62,
       "2025-08-18": 103,
       "2025-08-15": 136,
@@ -88,8 +89,7 @@
       "2025-01-11": 47,
       "2025-01-10": 97,
       "2025-01-08": 83,
-      "2025-01-07": 71,
-      "2024-12-29": 21
+      "2025-01-07": 71
     }
   },
   {
