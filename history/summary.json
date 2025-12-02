@@ -4,18 +4,19 @@
     "url": "https://www.timedin.net",
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "timedin-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.15%",
     "time": 1718,
-    "timeDay": 871,
-    "timeWeek": 858,
-    "timeMonth": 1156,
-    "timeYear": 1631,
+    "timeDay": 907,
+    "timeWeek": 872,
+    "timeMonth": 1161,
+    "timeYear": 1630,
     "dailyMinutesDown": {
+      "2025-12-02": 28,
       "2025-11-30": 10,
       "2025-11-19": 12,
       "2025-11-18": 145,
@@ -75,8 +76,7 @@
       "2025-05-13": 162,
       "2025-05-12": 38,
       "2025-05-10": 115,
-      "2025-05-09": 67,
-      "2025-05-08": 33
+      "2025-05-09": 67
     }
   },
   {
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 146,
-    "timeWeek": 119,
-    "timeMonth": 122,
+    "timeDay": 153,
+    "timeWeek": 124,
+    "timeMonth": 123,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 147,
-    "timeWeek": 120,
-    "timeMonth": 122,
+    "timeDay": 153,
+    "timeWeek": 124,
+    "timeMonth": 123,
     "timeYear": 118,
     "dailyMinutesDown": {}
   }
