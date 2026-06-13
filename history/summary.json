@@ -6,17 +6,17 @@
     "slug": "timedin-net",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "70.45%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.87%",
-    "time": 1653,
-    "timeDay": 10639,
-    "timeWeek": 3222,
-    "timeMonth": 2204,
-    "timeYear": 1699,
+    "uptimeDay": "66.03%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.86%",
+    "time": 1668,
+    "timeDay": 8098,
+    "timeWeek": 3689,
+    "timeMonth": 2381,
+    "timeYear": 1715,
     "dailyMinutesDown": {
-      "2025-08-19": 62,
+      "2025-08-19": 20,
       "2025-08-21": 17,
       "2025-08-22": 102,
       "2025-08-25": 36,
@@ -82,7 +82,7 @@
       "2026-05-05": 143,
       "2026-05-18": 98,
       "2026-05-26": 124,
-      "2026-06-13": 426
+      "2026-06-13": 490
     }
   },
   {
