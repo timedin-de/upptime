@@ -6,14 +6,14 @@
     "slug": "timedin-net",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "87.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.22%",
     "uptimeMonth": "96.51%",
     "uptimeYear": "98.69%",
     "time": 1680,
-    "timeDay": 798,
-    "timeWeek": 809,
-    "timeMonth": 2464,
+    "timeDay": 694,
+    "timeWeek": 813,
+    "timeMonth": 2466,
     "timeYear": 1765,
     "dailyMinutesDown": {
       "2025-08-25": 36,
@@ -102,7 +102,7 @@
     "timeDay": 99,
     "timeWeek": 123,
     "timeMonth": 123,
-    "timeYear": 121,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -117,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 100,
+    "timeDay": 99,
     "timeWeek": 123,
     "timeMonth": 123,
-    "timeYear": 121,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   }
 ]
