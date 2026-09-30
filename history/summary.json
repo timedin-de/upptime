@@ -4,17 +4,17 @@
     "url": "https://www.timedin.net",
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "timedin-net",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.79%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "98.33%",
-    "time": 1817,
-    "timeDay": 1043,
-    "timeWeek": 1410,
-    "timeMonth": 1538,
-    "timeYear": 1839,
+    "time": 1832,
+    "timeDay": 5673,
+    "timeWeek": 2366,
+    "timeMonth": 1775,
+    "timeYear": 1858,
     "dailyMinutesDown": {
       "2025-10-01": 137,
       "2025-10-06": 36,
@@ -86,7 +86,8 @@
       "2026-09-11": 401,
       "2026-09-26": 82,
       "2026-09-25": 44,
-      "2026-09-27": 298
+      "2026-09-27": 298,
+      "2026-09-30": 0
     }
   },
   {
@@ -102,9 +103,9 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 158,
-    "timeWeek": 119,
+    "timeWeek": 123,
     "timeMonth": 126,
-    "timeYear": 125,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -120,8 +121,8 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 157,
-    "timeWeek": 121,
-    "timeMonth": 127,
+    "timeWeek": 125,
+    "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {}
   }
