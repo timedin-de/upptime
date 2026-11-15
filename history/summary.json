@@ -14,7 +14,7 @@
     "timeDay": 2622,
     "timeWeek": 1011,
     "timeMonth": 872,
-    "timeYear": 1609,
+    "timeYear": 1610,
     "dailyMinutesDown": {
       "2025-11-17": 19,
       "2025-11-18": 145,
@@ -95,9 +95,9 @@
     "url": "mail.timedin.net",
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "mail-timedin-net-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,6 +106,8 @@
     "timeWeek": 138,
     "timeMonth": 130,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-15": 0
+    }
   }
 ]
