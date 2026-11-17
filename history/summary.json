@@ -11,12 +11,11 @@
     "uptimeMonth": "98.92%",
     "uptimeYear": "98.24%",
     "time": 1766,
-    "timeDay": 1242,
-    "timeWeek": 1032,
-    "timeMonth": 895,
-    "timeYear": 1610,
+    "timeDay": 0,
+    "timeWeek": 1059,
+    "timeMonth": 906,
+    "timeYear": 1612,
     "dailyMinutesDown": {
-      "2025-11-17": 19,
       "2025-11-18": 145,
       "2025-11-19": 12,
       "2025-11-30": 10,
@@ -84,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 154,
-    "timeWeek": 138,
-    "timeMonth": 132,
+    "timeDay": 0,
+    "timeWeek": 140,
+    "timeMonth": 133,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -95,20 +94,21 @@
     "url": "mail.timedin.net",
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "mail-timedin-net-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "88.54%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.36%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 123,
-    "timeDay": 154,
-    "timeWeek": 138,
+    "timeDay": 0,
+    "timeWeek": 140,
     "timeMonth": 132,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2026-11-16": 159,
-      "2026-11-15": 6
+      "2026-11-15": 6,
+      "2026-11-17": 0
     }
   }
 ]
