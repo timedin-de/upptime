@@ -92,14 +92,14 @@
     "url": "mail.timedin.net",
     "icon": "https://static.timedin.net/icons/android-icon-192x192.png",
     "slug": "mail-timedin-net-mx",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "68.32%",
-    "uptimeWeek": "87.69%",
-    "uptimeMonth": "97.17%",
-    "uptimeYear": "99.76%",
-    "time": 124,
-    "timeDay": 121,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "38.69%",
+    "uptimeWeek": "82.58%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "99.67%",
+    "time": 123,
+    "timeDay": 131,
     "timeWeek": 128,
     "timeMonth": 131,
     "timeYear": 126,
@@ -109,7 +109,7 @@
       "2026-11-17": 119,
       "2026-11-18": 222,
       "2026-11-19": 661,
-      "2026-11-20": 73
+      "2026-11-20": 589
     }
   }
 ]
