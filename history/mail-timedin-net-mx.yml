@@ -1,7 +1,7 @@
 url: mail.timedin.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-20T23:17:38.166Z
+status: up
+code: 200
+responseTime: 150
+lastUpdated: 2026-11-21T03:51:44.167Z
 startTime: 2023-09-03T21:05:41.725Z
 generator: Upptime <https://github.com/upptime/upptime>
